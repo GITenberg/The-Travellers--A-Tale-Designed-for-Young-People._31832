@@ -1,0 +1,29 @@
+_repo: The-Travellers--A-Tale-Designed-for-Young-People._31832
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sedgwick, Catharine Maria
+    alias: Sedgwick, Katherine Maria
+    birthdate: 1789
+    deathdate: 1867
+    gutenberg_agent_id: '35508'
+    url: http://www.gutenberg.org/2009/agents/35508
+description: With 2p of booksellers' advertisements.
+gutenberg_issued: '2010-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Canada -- Description and travel -- Fiction'
+- !lcsh 'United States -- Description and travel -- Fiction'
+title: 'The Travellers: A Tale, Designed for Young People.'
+url: http://www.gutenberg.org/ebooks/31832
